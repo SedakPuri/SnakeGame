@@ -2,6 +2,6 @@ A basic console based C++ implementation of the classic game "Snake" where the p
 
 _This version uses pointers and a linked-list queue that represents the snake as it moves around the board._
 
-Snake: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
-
 **Note: Future versions may utilize C++ Graphical Libraries such as OpenGL and GLUT**
+
+Wikipedia Snake: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
