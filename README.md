@@ -4,4 +4,4 @@ _This version uses pointers and a linked-list queue that represents the snake as
 
 **Note: Future versions may utilize C++ Graphical Libraries such as OpenGL and GLUT**
 
-Wikipedia Snake: 
+
